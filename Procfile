@@ -1,1 +1,1 @@
-web: bin/hubot -a notify
+web: bin/hubot -a slack -n tachikoma
